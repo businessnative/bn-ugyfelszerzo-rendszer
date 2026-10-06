@@ -1,0 +1,10 @@
+{
+  "id": "ugyfelszerzo",
+  "title": "Ügyfélszerző rendszer",
+  "group": "Ügyfélszerzés",
+  "description": "Gyűjtsd egy helyre az érdeklődéseket, és kövesd őket a konzultációig.",
+  "number": 1,
+  "repo": "bn-ugyfelszerzo-rendszer",
+  "baseVersion": "0.2.0",
+  "baseSha256": "2ac86b0161d276dfb52eaed1c061d34fe95bc69ff7e9bbc7c657ee75780285f5"
+}
